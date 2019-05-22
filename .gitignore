@@ -15,3 +15,4 @@ src/Revision.h
 /projects/msvc/GeneratedFiles
 .vs
 /translations/wtl
+.vscode/ipch/*
